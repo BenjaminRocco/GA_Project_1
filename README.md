@@ -11,11 +11,11 @@ The goal of this project is to analyze trends in SAT scores among test takers fr
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
-|**state**|*string*|2017-2019 State SAT Scores|States of exam takers shown in alphabetical order| 
-|**participation**|*float*|2017-2019 State SAT Scores|The percentage of exam takers within the state given in decimal format|
-|**ebrw**|*integer*|2017-2019 State SAT Scores|Score in the Evidence-Based Reading and Writing section of the SAT|
-|**math**|*integer*|2017-2019 State SAT Scores|Score in the Math section of the SAT|
-|**total**|*integer*|2017-2019 State SAT Scores|Summation of the EBRW and Math sections of the SAT|
+|**state**|*string*|$2017-2019$ State SAT Scores|States of exam takers shown in alphabetical order| 
+|**participation**|*float*|$2017-2019$ State SAT Scores|The percentage of exam takers within the state given in decimal format|
+|**ebrw**|*integer*|$2017-2019$ State SAT Scores|Score in the Evidence-Based Reading and Writing section of the SAT|
+|**math**|*integer*|$2017-2019$ State SAT Scores|Score in the Math section of the SAT|
+|**total**|*integer*|$2017-2019$ State SAT Scores|Summation of the EBRW and Math sections of the SAT|
 
 **Final file `SAT_2019_MAJ_NEW` follows following format**
 
