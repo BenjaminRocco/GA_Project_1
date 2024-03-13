@@ -32,7 +32,7 @@ The goal of this project is to analyze trends in SAT scores among test takers fr
 
 **All work shown**
 
-All work shown and significant figures $\bar{x} \pm \tilde{\sigma}$ shown, for mean $x$ and standard error $\tilde{\sigma}$.
+All work shown and significant figures $\bar{x} \pm \tilde{\sigma}$ shown, for mean $\bar{x}$ and standard error $\tilde{\sigma}$.
 
 ## Visuals
 
