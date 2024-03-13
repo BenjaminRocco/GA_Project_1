@@ -57,5 +57,7 @@ We examined trends in SAT scores and participation rates from $2017$ through $20
 Intended majors performed better in their areas of expertise compared with those not in that area. Those in the sciences performed better overall, most likely due to objectivity of mathematics questions allowing for clear-cut and pragmatic approaches to solutions, versus the multi-interpretability of reading and writing questions which could lead to greater variability in answers and subsequently more inccorect answers. Finally, cultural factors and disparities in tutoring and study resources that certain demographics have readily accessible to them are another cause of potential score decreases, as these groups are pressured to increase their exam participation but are not provided adequate reasources to prepare themselves for the academic rigors of the exam sufficiently. 
 
 Sources: 
+
 https://www.washingtonpost.com/local/education/sat-scores-drop-for-2019-class-but-participation-rises-through-testing-in-schools/2019/09/23/332fc4d0-de11-11e9-8dc8-498eabc129a0_story.html
+
 https://www.brookings.edu/articles/sat-math-scores-mirror-and-maintain-racial-inequity/
