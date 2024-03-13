@@ -21,12 +21,12 @@ The goal of this project is to analyze trends in SAT scores among test takers fr
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
-|**intendedcollegemajor**|*string*|2019 State SAT Scores by Major|Various majors of exam takers shown in alphabetical order| 
-|**testtakers**|*float*|2019 State SAT Scores by Major|The number of exam takers of the given intended major|
-|**percent**|*float*|2019 State SAT Scores by Major|The percentage of exam takers of the intended major out of all majors given in decimal format|
-|**total**|*integer*|2019 State SAT Scores by Major|Summation of the Reading & Writing and Math sections of the SAT|
-|**readingwriting**|*integer*|2019 State SAT Scores by Major|Score in the Reading and Writing section of the SAT|
-|**math**|*integer*|2019 State SAT Scores by Major|Score in the Math section of the SAT|
+|**intendedcollegemajor**|*string*|$2019$ State SAT Scores by Major|Various majors of exam takers shown in alphabetical order| 
+|**testtakers**|*float*|$2019$ State SAT Scores by Major|The number of exam takers of the given intended major|
+|**percent**|*float*|$2019$ State SAT Scores by Major|The percentage of exam takers of the intended major out of all majors given in decimal format|
+|**total**|*integer*|$2019$ State SAT Scores by Major|Summation of the Reading & Writing and Math sections of the SAT|
+|**readingwriting**|*integer*|$2019$ State SAT Scores by Major|Score in the Reading and Writing section of the SAT|
+|**math**|*integer*|$2019$ State SAT Scores by Major|Score in the Math section of the SAT|
 
 ## Work Section
 
