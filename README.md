@@ -3,7 +3,9 @@
 
 ## Objective
 
-The goal of this project is to analyze trends in SAT scores among test takers from $2017$ to $2019.$ Our hypothesis will be, in general, that although participation levels increased in the SATs from $2017$ to $2019,$ test scores decreased slightly across these years in all areas. In other words, these two variables were negatively correlated and a linear regression line may be observed across these years. Additionally, we will observe trends in $2019$ scores among intended majors and perform statistical analysis methods to to analyze various features of these scores, asserting that those in intended majors relevant to test subjects performed better in those areas, and those with non-academic intended majors, in general, performed under the average of $2019$ general SAT standards. 
+Problem Statement: How may levels of preparedness be assessed in test takers given increased participation levels? The goal of this project is to analyze trends in SAT scores among test takers from $2017$ to $2019.$ Additionally, we will observe trends in $2019$ scores among intended majors and perform statistical analysis methods to to analyze various features of these scores.
+
+Our hypothesis will be, in general, that although participation levels increased in the SATs from $2017$ to $2019,$ test scores decreased slightly across these years in all areas. In other words, these two variables were negatively correlated and a linear regression line may be observed across these years. We also assert that those in intended majors relevant to test subjects performed better in those areas in $2019$, and those with non-academic intended majors, in general, performed under the average of $2019$ general SAT standards. 
 
 ## Data
 
