@@ -9,7 +9,7 @@ Our hypothesis will be, in general, that although participation levels increased
 
 ## Data
 
-** The first few files `SAT_2017_NEW, SAT_2018_NEW, SAT_2019_RESET_NEW` follow this format**
+**The first few files `SAT_2017_NEW, SAT_2018_NEW, SAT_2019_RESET_NEW` follow this format**
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
