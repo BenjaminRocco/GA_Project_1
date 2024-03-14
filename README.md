@@ -1,5 +1,5 @@
 
-# Establishing a Linear Correlation Between SAT Participation and Scores Three Years Prior to the Coronavirus Pandemic
+# Establishing a Linear Correlation Between SAT Participation and Scores
 
 ## Objective
 
