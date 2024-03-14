@@ -30,6 +30,7 @@ Our hypothesis will be, in general, that although participation levels increased
 |**readingwriting**|*integer*|$2019$ State SAT Scores by Major|Score in the Reading and Writing section of the SAT|
 |**math**|*integer*|$2019$ State SAT Scores by Major|Score in the Math section of the SAT|
 
+The only data that ended up being dropped were scores from test takers from Puerto Rico and the Virgin Islands; thus, for this study only the $50$ states were considered and The Dictrict of Columnbia (D.C.). 
 ## Work Section
 
 **All work shown**
